@@ -1,0 +1,11 @@
+* {
+    user-select: none; /* This will disable text selection on the entire page */
+    -webkit-user-select: none; /* For Safari and Chrome */
+    -moz-user-select: none; /* For Firefox */
+    -ms-user-select: none; /* For IE10+/Edge */
+}
+
+body,html {
+    background-color: black;
+    color: green;
+}
